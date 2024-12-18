@@ -1,0 +1,5 @@
+# Ignore executables
+*
+
+# Allow all .c files
+!*.c
